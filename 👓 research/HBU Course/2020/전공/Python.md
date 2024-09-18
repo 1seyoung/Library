@@ -1,0 +1,1 @@
+![[🛶 developer/python/python|python]]

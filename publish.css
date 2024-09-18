@@ -1,0 +1,26 @@
+.mod-frontmatter.mod-ui .frontmatter-container,
+.mod-frontmatter.mod-ui pre.frontmatter,
+.mod-frontmatter.mod-ui code.language-yaml {
+  display: inline !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.frontmatter-container .token.key {
+  color: #0077be !important;
+  font-weight: bold;
+}
+
+.frontmatter-container .token.punctuation {
+  color: #999 !important;
+}
+
+.frontmatter-container a {
+  color: #009900 !important;
+  text-decoration: none;
+}
+
+.frontmatter-container a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,1 @@
+document.querySelector('.frontmatter-container').style.removeProperty('display');
