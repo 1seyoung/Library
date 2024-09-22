@@ -6,6 +6,10 @@
 깃허브 : https://github.com/1seyoung/Anteater
 준비 문서 : [종목 토론 프로젝트(요구사항, ERD, API 명세서)](https://docs.google.com/spreadsheets/d/1AqUsFpiL4IvABCxnE2cxoQBxs48Qa-7AABsnBS4pQyA/edit?gid=943227718#gid=943227718)
 
+- [[8.17 멤버서비스 오류 잡기  멘토링 메모]]
+- [[8.20 -21 API Gateway 리팩토링 및 Docker Compose 테스트]]
+- [[8.22-23 member service 구현]]
+
 본 프로젝트는 [[항해99 리부트 코스 복기|항해99 리부트 코스]]에 참여하여 진행한 프로젝트 입니다. 
 
 ##### 리부트 코스 참가 동기와 멘토링에 대한 만족
