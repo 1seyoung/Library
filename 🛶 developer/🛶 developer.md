@@ -28,7 +28,7 @@ type: folder_brief_live
 	- [[MongoDB 계층 구조]]
 	- [[MongoDB 기본 특징]]
 - [[MSA(Micro Service Architecture)]]
-- **[[python]]**
+- **[[🛶 developer/python/python]]**
 	- [[데이터 수집 라이브러리(pandas, numpy, request)]]
 	- [[병렬 프로그래밍(asyncio, threading, multiprocessing)]]
 	- [[Python의 변경 가능한(mutable) 자료구조]]
