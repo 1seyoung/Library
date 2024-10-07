@@ -1,11 +1,6 @@
-# research Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
 
 %% Begin Waypoint %%
+- [[👓 research]]
 - **소프트웨어 공학**
 	- [[나선형 모델(Spiral Model)]]
 	- **디지털트윈**
@@ -26,7 +21,7 @@ type: folder_brief_live
 			- [[선형대수학]]
 			- [[알고리즘]]
 			- [[정보보호]]
-			- [[👓 research/HBU Course/2020/전공/Python]]
+			- [[Python]]
 	- **2021**
 		- **교양**
 			- [[국가행정의 이해]]
@@ -49,5 +44,6 @@ type: folder_brief_live
 			- [[MPRNet 발표자료]]
 	- **세미나**
 		- [[자연어 처리(NLP)]]
+		- [[wavve CTO 조휘열- 회사에서 원하는 개발자의 모습]]
 
 %% End Waypoint %%

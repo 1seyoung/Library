@@ -1,11 +1,8 @@
-# developer Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
 
 %% Begin Waypoint %%
+- **[[기술면접]]**
+- **미분류**
+	- [[Call by Value 와 Call by Reference]]
 - **devenv**
 	- **common**
 		- [[기본 설치 및 SSH 설정 가이드]]
@@ -23,12 +20,19 @@ type: folder_brief_live
 		- [[PowerShell 설정]]
 		- [[windows python]]
 - **[[java]]**
+	- [[자바의 컴파일 과정]]
+	- [[JPA]]
+	- [[JVM(Java Virtual Machine)]]
 - **mongodb**
 	- [[Apple M1 MongoDB setting]]
 	- [[MongoDB 계층 구조]]
 	- [[MongoDB 기본 특징]]
 - [[MSA(Micro Service Architecture)]]
-- **[[🛶 developer/python/python]]**
+- **oop**
+	- [[Object-Oriented Programming(OOP)]]
+	- [[OOP - Override 와 Overload]]
+- [[ORM]]
+- **[[python]]**
 	- [[데이터 수집 라이브러리(pandas, numpy, request)]]
 	- [[병렬 프로그래밍(asyncio, threading, multiprocessing)]]
 	- [[Python의 변경 가능한(mutable) 자료구조]]
@@ -36,6 +40,9 @@ type: folder_brief_live
 - **seminar**
 	- [[조휘열 CTO님 - MSA , Waeve 특강]]
 - [[SOA(Service-Oriented Architecture)]]
+- **SQL**
+	- **PostgreSQL**
+	- [[SQL 기본]]
 - **ssh**
 	- [[ssh 를 이용한 서버 접속 기본]]
 

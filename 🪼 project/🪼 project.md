@@ -1,9 +1,3 @@
-# 🪼 project Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
 
 %% Begin Waypoint %%
 - **[[🐜 AntEater]]**
@@ -17,5 +11,7 @@ type: folder_brief_live
 		- [[공학설계입문]]
 		- [[데이터구조]]
 		- [[HCI]]
+- **CareerCarrier**
+	- [[CareerCarrier 기획 초안]]
 
 %% End Waypoint %%

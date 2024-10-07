@@ -1,17 +1,16 @@
-# 🌳 coding test Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
 
 %% Begin Waypoint %%
 - **개념**
 	- [[Java PriorityQueue Class]]
+	- [[Python PriorityQueue]]
 - **눈높이 코테 챌린지**
+	- **5기**
+		- [[백준 폴짝폴짝]]
+	- [[0910]]
+	- [[0911]]
 	- [[실버3 16937 두 스티커]]
-	- [[🌳 coding test/눈높이 코테 챌린지/0910]]
-	- [[🌳 coding test/눈높이 코테 챌린지/0911]]
+	- **해설지**
+		- [[해설지 아카이브]]
 - [[완전 탐색 유형]]
 - **자바 백준**
 	- [[브론즈1 1157 단어공부]]
@@ -33,6 +32,11 @@ type: folder_brief_live
 	- [[실버4 10845 큐]]
 	- [[실버4 25192 인사성 밝은 곰곰이]]
 	- [[실버5 10815 숫자 카드1]]
+- **저장**
+	- [[답 복원]]
+- **카카오 코테 연습**
+	- **2024 KAKAO WINTER INTERSHIP**
+		- [[가장 많이 받은 선물]]
 - **keep boj**
 	- [[브론즈1 9933 민균이의 비밀번호]]
 	- [[실버 1743 음식물 피하기]]
@@ -40,5 +44,8 @@ type: folder_brief_live
 	- [[실버2 21938 영상처리]]
 	- [[실버3 15649 N과 M(1)]]
 	- [[실버3 15650 N과M(2)]]
+- **programmers**
+	- **level 0**
+		- [[(PCCP 기출문제) 1번 동영상 재생기]]
 
 %% End Waypoint %%

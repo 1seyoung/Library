@@ -4,7 +4,7 @@
 const dv = app.plugins.plugins["dataview"].api;
 
 // 첫 번째 쿼리 설정
-const filename1 = "1순위로 확인";
+const filename1 = "중요한 글";
 const query1 = `TABLE WITHOUT ID
   file.link AS "제목",
   choice(
